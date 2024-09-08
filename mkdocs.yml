@@ -1,0 +1,17 @@
+site_name: terraPen Documentation 
+nav:
+  - Home: index.md
+  - What's in the box: WhatsInTheBox.md 
+  - First time use: 1sttimeuse.md
+  - terraPen web UI: terraPenWebUI.md 
+  - First Plot: 1stPlot.md
+  - Uploading Files: uploadingFiles.md
+  - Plotting: plotting.md
+  - Moving The Pen Carriage: movingThePenCarriage.md
+  - Starting a plot: startingAplot.md
+  - Connect to a personal network: connectToPersonalNetwork.md
+  - Re-starting terraPen: restartTerraPen.md 
+  - Lightburn Profiles and settings: LightburnProfilesAndSettings.md
+  - YAML Configuration Settings: YAMLConfigurationSettings.md
+  - FAQ (Frequently Asked Questions): FAQ.md
+theme: readthedocs
