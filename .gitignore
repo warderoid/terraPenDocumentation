@@ -1,1 +1,4 @@
 echo "site/" >> .gitignore
+**/public
+**/node_modules
+**/.cache
