@@ -1,5 +1,5 @@
 * 1x terraPen 
-* Universal Power supply  
+* 12v 2amp Universal Power supply  (UK Plug shown)
 * Pen 
 * Completed calibration plot
 * Pen height setting puck (2mm)
